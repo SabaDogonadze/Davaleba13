@@ -15,3 +15,7 @@ f
 6app/src/main/java/com/example/davaleba13/ParentItem.kt,b\b\bb19ccf98f01f147f1dcc463ef068f79fd3f87a8
 h
 8app/src/main/java/com/example/davaleba13/ChildAdapter.kt,d\7\d7845e08d0397bbb6e25acebf00939b55405be16
+h
+8app/src/main/java/com/example/davaleba13/BaseFragment.kt,c\4\c4221677ce27c65efeb1db1d10d7262104891ddd
+i
+9app/src/main/java/com/example/davaleba13/ItemViewModel.kt,9\e\9e65ee72752f41c2591d94ce375eaa10fe5a16e5

@@ -48,8 +48,10 @@ class ItemsRecyclerAdapter :
         fun bind(parentItem: ParentItem) {
 
             childAdapter.submitList(parentItem.mList)
+
         }
     }
+
 }
 
 
